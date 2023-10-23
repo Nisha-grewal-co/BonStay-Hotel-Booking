@@ -1,0 +1,390 @@
+D:\Capstone Project-OnlineFoodOrder(.net6)\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\appsettings.Development.json
+D:\Capstone Project-OnlineFoodOrder(.net6)\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\appsettings.json
+D:\Capstone Project-OnlineFoodOrder(.net6)\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\OnlineFoodOrderWebService.exe
+D:\Capstone Project-OnlineFoodOrder(.net6)\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\OnlineFoodOrderWebService.deps.json
+D:\Capstone Project-OnlineFoodOrder(.net6)\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\OnlineFoodOrderWebService.runtimeconfig.json
+D:\Capstone Project-OnlineFoodOrder(.net6)\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\OnlineFoodOrderWebService.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\OnlineFoodOrderWebService.pdb
+D:\Capstone Project-OnlineFoodOrder(.net6)\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.pdb
+D:\Capstone Project-OnlineFoodOrder(.net6)\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\obj\Debug\net6.0\OnlineFoodOrderWebService.csproj.AssemblyReference.cache
+D:\Capstone Project-OnlineFoodOrder(.net6)\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\obj\Debug\net6.0\OnlineFoodOrderWebService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capstone Project-OnlineFoodOrder(.net6)\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\obj\Debug\net6.0\OnlineFoodOrderWebService.AssemblyInfoInputs.cache
+D:\Capstone Project-OnlineFoodOrder(.net6)\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\obj\Debug\net6.0\OnlineFoodOrderWebService.AssemblyInfo.cs
+D:\Capstone Project-OnlineFoodOrder(.net6)\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\obj\Debug\net6.0\OnlineFoodOrderWebService.csproj.CoreCompileInputs.cache
+D:\Capstone Project-OnlineFoodOrder(.net6)\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\obj\Debug\net6.0\OnlineFoodOrderWebService.MvcApplicationPartsAssemblyInfo.cs
+D:\Capstone Project-OnlineFoodOrder(.net6)\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\obj\Debug\net6.0\OnlineFoodOrderWebService.MvcApplicationPartsAssemblyInfo.cache
+D:\Capstone Project-OnlineFoodOrder(.net6)\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\obj\Debug\net6.0\staticwebassets\msbuild.OnlineFoodOrderWebService.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Capstone Project-OnlineFoodOrder(.net6)\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\obj\Debug\net6.0\staticwebassets\msbuild.build.OnlineFoodOrderWebService.props
+D:\Capstone Project-OnlineFoodOrder(.net6)\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.OnlineFoodOrderWebService.props
+D:\Capstone Project-OnlineFoodOrder(.net6)\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.OnlineFoodOrderWebService.props
+D:\Capstone Project-OnlineFoodOrder(.net6)\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Capstone Project-OnlineFoodOrder(.net6)\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\obj\Debug\net6.0\staticwebassets.build.json
+D:\Capstone Project-OnlineFoodOrder(.net6)\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\obj\Debug\net6.0\staticwebassets.development.json
+D:\Capstone Project-OnlineFoodOrder(.net6)\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\obj\Debug\net6.0\scopedcss\bundle\OnlineFoodOrderWebService.styles.css
+D:\Capstone Project-OnlineFoodOrder(.net6)\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\obj\Debug\net6.0\OnlineFoodOrderWebService.csproj.CopyComplete
+D:\Capstone Project-OnlineFoodOrder(.net6)\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\obj\Debug\net6.0\OnlineFoodOrderWebService.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\obj\Debug\net6.0\refint\OnlineFoodOrderWebService.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\obj\Debug\net6.0\OnlineFoodOrderWebService.pdb
+D:\Capstone Project-OnlineFoodOrder(.net6)\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\obj\Debug\net6.0\OnlineFoodOrderWebService.genruntimeconfig.cache
+D:\Capstone Project-OnlineFoodOrder(.net6)\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\obj\Debug\net6.0\ref\OnlineFoodOrderWebService.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Solution Templete\OnlineFoodOrderWebService\bin\Debug\net6.0\appsettings.Development.json
+D:\Capstone Project-OnlineFoodOrder(.net6)\Solution Templete\OnlineFoodOrderWebService\bin\Debug\net6.0\appsettings.json
+D:\Capstone Project-OnlineFoodOrder(.net6)\Solution Templete\OnlineFoodOrderWebService\bin\Debug\net6.0\OnlineFoodOrderWebService.exe
+D:\Capstone Project-OnlineFoodOrder(.net6)\Solution Templete\OnlineFoodOrderWebService\bin\Debug\net6.0\OnlineFoodOrderWebService.deps.json
+D:\Capstone Project-OnlineFoodOrder(.net6)\Solution Templete\OnlineFoodOrderWebService\bin\Debug\net6.0\OnlineFoodOrderWebService.runtimeconfig.json
+D:\Capstone Project-OnlineFoodOrder(.net6)\Solution Templete\OnlineFoodOrderWebService\bin\Debug\net6.0\OnlineFoodOrderWebService.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Solution Templete\OnlineFoodOrderWebService\bin\Debug\net6.0\OnlineFoodOrderWebService.pdb
+D:\Capstone Project-OnlineFoodOrder(.net6)\Solution Templete\OnlineFoodOrderWebService\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Solution Templete\OnlineFoodOrderWebService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Solution Templete\OnlineFoodOrderWebService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Solution Templete\OnlineFoodOrderWebService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Solution Templete\OnlineFoodOrderWebService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Solution Templete\OnlineFoodOrderWebService\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Solution Templete\OnlineFoodOrderWebService\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Solution Templete\OnlineFoodOrderWebService\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Solution Templete\OnlineFoodOrderWebService\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Solution Templete\OnlineFoodOrderWebService\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Solution Templete\OnlineFoodOrderWebService\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Solution Templete\OnlineFoodOrderWebService\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Solution Templete\OnlineFoodOrderWebService\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Solution Templete\OnlineFoodOrderWebService\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Solution Templete\OnlineFoodOrderWebService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Solution Templete\OnlineFoodOrderWebService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Solution Templete\OnlineFoodOrderWebService\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Solution Templete\OnlineFoodOrderWebService\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Solution Templete\OnlineFoodOrderWebService\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Solution Templete\OnlineFoodOrderWebService\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Solution Templete\OnlineFoodOrderWebService\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Solution Templete\OnlineFoodOrderWebService\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Solution Templete\OnlineFoodOrderWebService\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Solution Templete\OnlineFoodOrderWebService\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Solution Templete\OnlineFoodOrderWebService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Solution Templete\OnlineFoodOrderWebService\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Solution Templete\OnlineFoodOrderWebService\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Solution Templete\OnlineFoodOrderWebService\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Solution Templete\OnlineFoodOrderWebService\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Solution Templete\OnlineFoodOrderWebService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Solution Templete\OnlineFoodOrderWebService\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Solution Templete\OnlineFoodOrderWebService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Solution Templete\OnlineFoodOrderWebService\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Solution Templete\OnlineFoodOrderWebService\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Solution Templete\OnlineFoodOrderWebService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Solution Templete\OnlineFoodOrderWebService\bin\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Solution Templete\OnlineFoodOrderWebService\bin\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.pdb
+D:\Capstone Project-OnlineFoodOrder(.net6)\Solution Templete\OnlineFoodOrderWebService\obj\Debug\net6.0\OnlineFoodOrderWebService.csproj.AssemblyReference.cache
+D:\Capstone Project-OnlineFoodOrder(.net6)\Solution Templete\OnlineFoodOrderWebService\obj\Debug\net6.0\OnlineFoodOrderWebService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capstone Project-OnlineFoodOrder(.net6)\Solution Templete\OnlineFoodOrderWebService\obj\Debug\net6.0\OnlineFoodOrderWebService.AssemblyInfoInputs.cache
+D:\Capstone Project-OnlineFoodOrder(.net6)\Solution Templete\OnlineFoodOrderWebService\obj\Debug\net6.0\OnlineFoodOrderWebService.AssemblyInfo.cs
+D:\Capstone Project-OnlineFoodOrder(.net6)\Solution Templete\OnlineFoodOrderWebService\obj\Debug\net6.0\OnlineFoodOrderWebService.csproj.CoreCompileInputs.cache
+D:\Capstone Project-OnlineFoodOrder(.net6)\Solution Templete\OnlineFoodOrderWebService\obj\Debug\net6.0\OnlineFoodOrderWebService.MvcApplicationPartsAssemblyInfo.cs
+D:\Capstone Project-OnlineFoodOrder(.net6)\Solution Templete\OnlineFoodOrderWebService\obj\Debug\net6.0\OnlineFoodOrderWebService.MvcApplicationPartsAssemblyInfo.cache
+D:\Capstone Project-OnlineFoodOrder(.net6)\Solution Templete\OnlineFoodOrderWebService\obj\Debug\net6.0\staticwebassets\msbuild.OnlineFoodOrderWebService.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Capstone Project-OnlineFoodOrder(.net6)\Solution Templete\OnlineFoodOrderWebService\obj\Debug\net6.0\staticwebassets\msbuild.build.OnlineFoodOrderWebService.props
+D:\Capstone Project-OnlineFoodOrder(.net6)\Solution Templete\OnlineFoodOrderWebService\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.OnlineFoodOrderWebService.props
+D:\Capstone Project-OnlineFoodOrder(.net6)\Solution Templete\OnlineFoodOrderWebService\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.OnlineFoodOrderWebService.props
+D:\Capstone Project-OnlineFoodOrder(.net6)\Solution Templete\OnlineFoodOrderWebService\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Capstone Project-OnlineFoodOrder(.net6)\Solution Templete\OnlineFoodOrderWebService\obj\Debug\net6.0\staticwebassets.build.json
+D:\Capstone Project-OnlineFoodOrder(.net6)\Solution Templete\OnlineFoodOrderWebService\obj\Debug\net6.0\staticwebassets.development.json
+D:\Capstone Project-OnlineFoodOrder(.net6)\Solution Templete\OnlineFoodOrderWebService\obj\Debug\net6.0\scopedcss\bundle\OnlineFoodOrderWebService.styles.css
+D:\Capstone Project-OnlineFoodOrder(.net6)\Solution Templete\OnlineFoodOrderWebService\obj\Debug\net6.0\OnlineFoodOrderWebService.csproj.CopyComplete
+D:\Capstone Project-OnlineFoodOrder(.net6)\Solution Templete\OnlineFoodOrderWebService\obj\Debug\net6.0\OnlineFoodOrderWebService.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Solution Templete\OnlineFoodOrderWebService\obj\Debug\net6.0\refint\OnlineFoodOrderWebService.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Solution Templete\OnlineFoodOrderWebService\obj\Debug\net6.0\OnlineFoodOrderWebService.pdb
+D:\Capstone Project-OnlineFoodOrder(.net6)\Solution Templete\OnlineFoodOrderWebService\obj\Debug\net6.0\OnlineFoodOrderWebService.genruntimeconfig.cache
+D:\Capstone Project-OnlineFoodOrder(.net6)\Solution Templete\OnlineFoodOrderWebService\obj\Debug\net6.0\ref\OnlineFoodOrderWebService.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Trainee Solution\OnlineFoodOrderWebService\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Trainee Solution\OnlineFoodOrderWebService\bin\Debug\net6.0\appsettings.json
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Trainee Solution\OnlineFoodOrderWebService\bin\Debug\net6.0\OnlineFoodOrderWebService.exe
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Trainee Solution\OnlineFoodOrderWebService\bin\Debug\net6.0\OnlineFoodOrderWebService.deps.json
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Trainee Solution\OnlineFoodOrderWebService\bin\Debug\net6.0\OnlineFoodOrderWebService.runtimeconfig.json
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Trainee Solution\OnlineFoodOrderWebService\bin\Debug\net6.0\OnlineFoodOrderWebService.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Trainee Solution\OnlineFoodOrderWebService\bin\Debug\net6.0\OnlineFoodOrderWebService.pdb
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Trainee Solution\OnlineFoodOrderWebService\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Trainee Solution\OnlineFoodOrderWebService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Trainee Solution\OnlineFoodOrderWebService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Trainee Solution\OnlineFoodOrderWebService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Trainee Solution\OnlineFoodOrderWebService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Trainee Solution\OnlineFoodOrderWebService\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Trainee Solution\OnlineFoodOrderWebService\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Trainee Solution\OnlineFoodOrderWebService\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Trainee Solution\OnlineFoodOrderWebService\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Trainee Solution\OnlineFoodOrderWebService\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Trainee Solution\OnlineFoodOrderWebService\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Trainee Solution\OnlineFoodOrderWebService\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Trainee Solution\OnlineFoodOrderWebService\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Trainee Solution\OnlineFoodOrderWebService\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Trainee Solution\OnlineFoodOrderWebService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Trainee Solution\OnlineFoodOrderWebService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Trainee Solution\OnlineFoodOrderWebService\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Trainee Solution\OnlineFoodOrderWebService\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Trainee Solution\OnlineFoodOrderWebService\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Trainee Solution\OnlineFoodOrderWebService\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Trainee Solution\OnlineFoodOrderWebService\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Trainee Solution\OnlineFoodOrderWebService\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Trainee Solution\OnlineFoodOrderWebService\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Trainee Solution\OnlineFoodOrderWebService\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Trainee Solution\OnlineFoodOrderWebService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Trainee Solution\OnlineFoodOrderWebService\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Trainee Solution\OnlineFoodOrderWebService\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Trainee Solution\OnlineFoodOrderWebService\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Trainee Solution\OnlineFoodOrderWebService\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Trainee Solution\OnlineFoodOrderWebService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Trainee Solution\OnlineFoodOrderWebService\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Trainee Solution\OnlineFoodOrderWebService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Trainee Solution\OnlineFoodOrderWebService\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Trainee Solution\OnlineFoodOrderWebService\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Trainee Solution\OnlineFoodOrderWebService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Trainee Solution\OnlineFoodOrderWebService\bin\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Trainee Solution\OnlineFoodOrderWebService\bin\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.pdb
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Trainee Solution\OnlineFoodOrderWebService\obj\Debug\net6.0\OnlineFoodOrderWebService.csproj.AssemblyReference.cache
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Trainee Solution\OnlineFoodOrderWebService\obj\Debug\net6.0\OnlineFoodOrderWebService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Trainee Solution\OnlineFoodOrderWebService\obj\Debug\net6.0\OnlineFoodOrderWebService.AssemblyInfoInputs.cache
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Trainee Solution\OnlineFoodOrderWebService\obj\Debug\net6.0\OnlineFoodOrderWebService.AssemblyInfo.cs
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Trainee Solution\OnlineFoodOrderWebService\obj\Debug\net6.0\OnlineFoodOrderWebService.csproj.CoreCompileInputs.cache
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Trainee Solution\OnlineFoodOrderWebService\obj\Debug\net6.0\OnlineFoodOrderWebService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Trainee Solution\OnlineFoodOrderWebService\obj\Debug\net6.0\OnlineFoodOrderWebService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Trainee Solution\OnlineFoodOrderWebService\obj\Debug\net6.0\staticwebassets\msbuild.OnlineFoodOrderWebService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Trainee Solution\OnlineFoodOrderWebService\obj\Debug\net6.0\staticwebassets\msbuild.build.OnlineFoodOrderWebService.props
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Trainee Solution\OnlineFoodOrderWebService\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.OnlineFoodOrderWebService.props
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Trainee Solution\OnlineFoodOrderWebService\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.OnlineFoodOrderWebService.props
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Trainee Solution\OnlineFoodOrderWebService\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Trainee Solution\OnlineFoodOrderWebService\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Trainee Solution\OnlineFoodOrderWebService\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Trainee Solution\OnlineFoodOrderWebService\obj\Debug\net6.0\scopedcss\bundle\OnlineFoodOrderWebService.styles.css
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Trainee Solution\OnlineFoodOrderWebService\obj\Debug\net6.0\OnlineFoodOrderWebService.csproj.CopyComplete
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Trainee Solution\OnlineFoodOrderWebService\obj\Debug\net6.0\OnlineFoodOrderWebService.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Trainee Solution\OnlineFoodOrderWebService\obj\Debug\net6.0\refint\OnlineFoodOrderWebService.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Trainee Solution\OnlineFoodOrderWebService\obj\Debug\net6.0\OnlineFoodOrderWebService.pdb
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Trainee Solution\OnlineFoodOrderWebService\obj\Debug\net6.0\OnlineFoodOrderWebService.genruntimeconfig.cache
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Trainee Solution\OnlineFoodOrderWebService\obj\Debug\net6.0\ref\OnlineFoodOrderWebService.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Educator solution\Infosys.OnlineFoodOrder - Copy\OnlineFoodOrderWebService\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Educator solution\Infosys.OnlineFoodOrder - Copy\OnlineFoodOrderWebService\bin\Debug\net6.0\appsettings.json
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Educator solution\Infosys.OnlineFoodOrder - Copy\OnlineFoodOrderWebService\bin\Debug\net6.0\OnlineFoodOrderWebService.exe
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Educator solution\Infosys.OnlineFoodOrder - Copy\OnlineFoodOrderWebService\bin\Debug\net6.0\OnlineFoodOrderWebService.deps.json
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Educator solution\Infosys.OnlineFoodOrder - Copy\OnlineFoodOrderWebService\bin\Debug\net6.0\OnlineFoodOrderWebService.runtimeconfig.json
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Educator solution\Infosys.OnlineFoodOrder - Copy\OnlineFoodOrderWebService\bin\Debug\net6.0\OnlineFoodOrderWebService.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Educator solution\Infosys.OnlineFoodOrder - Copy\OnlineFoodOrderWebService\bin\Debug\net6.0\OnlineFoodOrderWebService.pdb
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Educator solution\Infosys.OnlineFoodOrder - Copy\OnlineFoodOrderWebService\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Educator solution\Infosys.OnlineFoodOrder - Copy\OnlineFoodOrderWebService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Educator solution\Infosys.OnlineFoodOrder - Copy\OnlineFoodOrderWebService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Educator solution\Infosys.OnlineFoodOrder - Copy\OnlineFoodOrderWebService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Educator solution\Infosys.OnlineFoodOrder - Copy\OnlineFoodOrderWebService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Educator solution\Infosys.OnlineFoodOrder - Copy\OnlineFoodOrderWebService\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Educator solution\Infosys.OnlineFoodOrder - Copy\OnlineFoodOrderWebService\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Educator solution\Infosys.OnlineFoodOrder - Copy\OnlineFoodOrderWebService\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Educator solution\Infosys.OnlineFoodOrder - Copy\OnlineFoodOrderWebService\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Educator solution\Infosys.OnlineFoodOrder - Copy\OnlineFoodOrderWebService\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Educator solution\Infosys.OnlineFoodOrder - Copy\OnlineFoodOrderWebService\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Educator solution\Infosys.OnlineFoodOrder - Copy\OnlineFoodOrderWebService\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Educator solution\Infosys.OnlineFoodOrder - Copy\OnlineFoodOrderWebService\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Educator solution\Infosys.OnlineFoodOrder - Copy\OnlineFoodOrderWebService\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Educator solution\Infosys.OnlineFoodOrder - Copy\OnlineFoodOrderWebService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Educator solution\Infosys.OnlineFoodOrder - Copy\OnlineFoodOrderWebService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Educator solution\Infosys.OnlineFoodOrder - Copy\OnlineFoodOrderWebService\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Educator solution\Infosys.OnlineFoodOrder - Copy\OnlineFoodOrderWebService\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Educator solution\Infosys.OnlineFoodOrder - Copy\OnlineFoodOrderWebService\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Educator solution\Infosys.OnlineFoodOrder - Copy\OnlineFoodOrderWebService\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Educator solution\Infosys.OnlineFoodOrder - Copy\OnlineFoodOrderWebService\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Educator solution\Infosys.OnlineFoodOrder - Copy\OnlineFoodOrderWebService\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Educator solution\Infosys.OnlineFoodOrder - Copy\OnlineFoodOrderWebService\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Educator solution\Infosys.OnlineFoodOrder - Copy\OnlineFoodOrderWebService\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Educator solution\Infosys.OnlineFoodOrder - Copy\OnlineFoodOrderWebService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Educator solution\Infosys.OnlineFoodOrder - Copy\OnlineFoodOrderWebService\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Educator solution\Infosys.OnlineFoodOrder - Copy\OnlineFoodOrderWebService\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Educator solution\Infosys.OnlineFoodOrder - Copy\OnlineFoodOrderWebService\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Educator solution\Infosys.OnlineFoodOrder - Copy\OnlineFoodOrderWebService\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Educator solution\Infosys.OnlineFoodOrder - Copy\OnlineFoodOrderWebService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Educator solution\Infosys.OnlineFoodOrder - Copy\OnlineFoodOrderWebService\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Educator solution\Infosys.OnlineFoodOrder - Copy\OnlineFoodOrderWebService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Educator solution\Infosys.OnlineFoodOrder - Copy\OnlineFoodOrderWebService\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Educator solution\Infosys.OnlineFoodOrder - Copy\OnlineFoodOrderWebService\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Educator solution\Infosys.OnlineFoodOrder - Copy\OnlineFoodOrderWebService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Educator solution\Infosys.OnlineFoodOrder - Copy\OnlineFoodOrderWebService\bin\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Educator solution\Infosys.OnlineFoodOrder - Copy\OnlineFoodOrderWebService\bin\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.pdb
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Educator solution\Infosys.OnlineFoodOrder - Copy\OnlineFoodOrderWebService\obj\Debug\net6.0\OnlineFoodOrderWebService.csproj.AssemblyReference.cache
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Educator solution\Infosys.OnlineFoodOrder - Copy\OnlineFoodOrderWebService\obj\Debug\net6.0\OnlineFoodOrderWebService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Educator solution\Infosys.OnlineFoodOrder - Copy\OnlineFoodOrderWebService\obj\Debug\net6.0\OnlineFoodOrderWebService.AssemblyInfoInputs.cache
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Educator solution\Infosys.OnlineFoodOrder - Copy\OnlineFoodOrderWebService\obj\Debug\net6.0\OnlineFoodOrderWebService.AssemblyInfo.cs
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Educator solution\Infosys.OnlineFoodOrder - Copy\OnlineFoodOrderWebService\obj\Debug\net6.0\OnlineFoodOrderWebService.csproj.CoreCompileInputs.cache
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Educator solution\Infosys.OnlineFoodOrder - Copy\OnlineFoodOrderWebService\obj\Debug\net6.0\OnlineFoodOrderWebService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Educator solution\Infosys.OnlineFoodOrder - Copy\OnlineFoodOrderWebService\obj\Debug\net6.0\OnlineFoodOrderWebService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Educator solution\Infosys.OnlineFoodOrder - Copy\OnlineFoodOrderWebService\obj\Debug\net6.0\staticwebassets\msbuild.OnlineFoodOrderWebService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Educator solution\Infosys.OnlineFoodOrder - Copy\OnlineFoodOrderWebService\obj\Debug\net6.0\staticwebassets\msbuild.build.OnlineFoodOrderWebService.props
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Educator solution\Infosys.OnlineFoodOrder - Copy\OnlineFoodOrderWebService\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.OnlineFoodOrderWebService.props
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Educator solution\Infosys.OnlineFoodOrder - Copy\OnlineFoodOrderWebService\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.OnlineFoodOrderWebService.props
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Educator solution\Infosys.OnlineFoodOrder - Copy\OnlineFoodOrderWebService\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Educator solution\Infosys.OnlineFoodOrder - Copy\OnlineFoodOrderWebService\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Educator solution\Infosys.OnlineFoodOrder - Copy\OnlineFoodOrderWebService\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Educator solution\Infosys.OnlineFoodOrder - Copy\OnlineFoodOrderWebService\obj\Debug\net6.0\scopedcss\bundle\OnlineFoodOrderWebService.styles.css
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Educator solution\Infosys.OnlineFoodOrder - Copy\OnlineFoodOrderWebService\obj\Debug\net6.0\OnlineFoodOrderWebService.csproj.CopyComplete
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Educator solution\Infosys.OnlineFoodOrder - Copy\OnlineFoodOrderWebService\obj\Debug\net6.0\OnlineFoodOrderWebService.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Educator solution\Infosys.OnlineFoodOrder - Copy\OnlineFoodOrderWebService\obj\Debug\net6.0\refint\OnlineFoodOrderWebService.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Educator solution\Infosys.OnlineFoodOrder - Copy\OnlineFoodOrderWebService\obj\Debug\net6.0\OnlineFoodOrderWebService.pdb
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Educator solution\Infosys.OnlineFoodOrder - Copy\OnlineFoodOrderWebService\obj\Debug\net6.0\OnlineFoodOrderWebService.genruntimeconfig.cache
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Educator solution\Infosys.OnlineFoodOrder - Copy\OnlineFoodOrderWebService\obj\Debug\net6.0\ref\OnlineFoodOrderWebService.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\appsettings.json
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\OnlineFoodOrderWebService.exe
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\OnlineFoodOrderWebService.deps.json
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\OnlineFoodOrderWebService.runtimeconfig.json
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\OnlineFoodOrderWebService.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\OnlineFoodOrderWebService.pdb
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.pdb
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\obj\Debug\net6.0\OnlineFoodOrderWebService.csproj.AssemblyReference.cache
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\obj\Debug\net6.0\OnlineFoodOrderWebService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\obj\Debug\net6.0\OnlineFoodOrderWebService.AssemblyInfoInputs.cache
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\obj\Debug\net6.0\OnlineFoodOrderWebService.AssemblyInfo.cs
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\obj\Debug\net6.0\OnlineFoodOrderWebService.csproj.CoreCompileInputs.cache
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\obj\Debug\net6.0\OnlineFoodOrderWebService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\obj\Debug\net6.0\OnlineFoodOrderWebService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\obj\Debug\net6.0\staticwebassets\msbuild.OnlineFoodOrderWebService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\obj\Debug\net6.0\staticwebassets\msbuild.build.OnlineFoodOrderWebService.props
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.OnlineFoodOrderWebService.props
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.OnlineFoodOrderWebService.props
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\obj\Debug\net6.0\scopedcss\bundle\OnlineFoodOrderWebService.styles.css
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\obj\Debug\net6.0\OnlineFoodOrderWebService.csproj.CopyComplete
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\obj\Debug\net6.0\OnlineFoodOrderWebService.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\obj\Debug\net6.0\refint\OnlineFoodOrderWebService.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\obj\Debug\net6.0\OnlineFoodOrderWebService.pdb
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\obj\Debug\net6.0\OnlineFoodOrderWebService.genruntimeconfig.cache
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\obj\Debug\net6.0\ref\OnlineFoodOrderWebService.dll
+C:\Files\Capstone Project - Online Food Order\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\appsettings.Development.json
+C:\Files\Capstone Project - Online Food Order\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\appsettings.json
+C:\Files\Capstone Project - Online Food Order\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\OnlineFoodOrderWebService.exe
+C:\Files\Capstone Project - Online Food Order\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\OnlineFoodOrderWebService.deps.json
+C:\Files\Capstone Project - Online Food Order\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\OnlineFoodOrderWebService.runtimeconfig.json
+C:\Files\Capstone Project - Online Food Order\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\OnlineFoodOrderWebService.dll
+C:\Files\Capstone Project - Online Food Order\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\OnlineFoodOrderWebService.pdb
+C:\Files\Capstone Project - Online Food Order\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Files\Capstone Project - Online Food Order\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Files\Capstone Project - Online Food Order\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Files\Capstone Project - Online Food Order\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Files\Capstone Project - Online Food Order\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Files\Capstone Project - Online Food Order\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Files\Capstone Project - Online Food Order\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Files\Capstone Project - Online Food Order\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Files\Capstone Project - Online Food Order\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Files\Capstone Project - Online Food Order\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Files\Capstone Project - Online Food Order\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Files\Capstone Project - Online Food Order\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Files\Capstone Project - Online Food Order\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Files\Capstone Project - Online Food Order\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Files\Capstone Project - Online Food Order\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Files\Capstone Project - Online Food Order\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Files\Capstone Project - Online Food Order\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Files\Capstone Project - Online Food Order\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Files\Capstone Project - Online Food Order\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Files\Capstone Project - Online Food Order\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Files\Capstone Project - Online Food Order\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Files\Capstone Project - Online Food Order\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Files\Capstone Project - Online Food Order\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Files\Capstone Project - Online Food Order\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Files\Capstone Project - Online Food Order\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Files\Capstone Project - Online Food Order\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Files\Capstone Project - Online Food Order\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Files\Capstone Project - Online Food Order\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Files\Capstone Project - Online Food Order\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Files\Capstone Project - Online Food Order\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Files\Capstone Project - Online Food Order\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Files\Capstone Project - Online Food Order\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Files\Capstone Project - Online Food Order\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Files\Capstone Project - Online Food Order\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Files\Capstone Project - Online Food Order\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Files\Capstone Project - Online Food Order\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.dll
+C:\Files\Capstone Project - Online Food Order\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\bin\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.pdb
+C:\Files\Capstone Project - Online Food Order\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\obj\Debug\net6.0\OnlineFoodOrderWebService.csproj.AssemblyReference.cache
+C:\Files\Capstone Project - Online Food Order\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\obj\Debug\net6.0\OnlineFoodOrderWebService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Files\Capstone Project - Online Food Order\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\obj\Debug\net6.0\OnlineFoodOrderWebService.AssemblyInfoInputs.cache
+C:\Files\Capstone Project - Online Food Order\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\obj\Debug\net6.0\OnlineFoodOrderWebService.AssemblyInfo.cs
+C:\Files\Capstone Project - Online Food Order\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\obj\Debug\net6.0\OnlineFoodOrderWebService.csproj.CoreCompileInputs.cache
+C:\Files\Capstone Project - Online Food Order\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\obj\Debug\net6.0\OnlineFoodOrderWebService.MvcApplicationPartsAssemblyInfo.cs
+C:\Files\Capstone Project - Online Food Order\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\obj\Debug\net6.0\OnlineFoodOrderWebService.MvcApplicationPartsAssemblyInfo.cache
+C:\Files\Capstone Project - Online Food Order\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\obj\Debug\net6.0\staticwebassets\msbuild.OnlineFoodOrderWebService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Files\Capstone Project - Online Food Order\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\obj\Debug\net6.0\staticwebassets\msbuild.build.OnlineFoodOrderWebService.props
+C:\Files\Capstone Project - Online Food Order\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.OnlineFoodOrderWebService.props
+C:\Files\Capstone Project - Online Food Order\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.OnlineFoodOrderWebService.props
+C:\Files\Capstone Project - Online Food Order\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Files\Capstone Project - Online Food Order\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\obj\Debug\net6.0\staticwebassets.build.json
+C:\Files\Capstone Project - Online Food Order\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\obj\Debug\net6.0\staticwebassets.development.json
+C:\Files\Capstone Project - Online Food Order\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\obj\Debug\net6.0\scopedcss\bundle\OnlineFoodOrderWebService.styles.css
+C:\Files\Capstone Project - Online Food Order\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\obj\Debug\net6.0\OnlineFoodOrderWebService.csproj.CopyComplete
+C:\Files\Capstone Project - Online Food Order\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\obj\Debug\net6.0\OnlineFoodOrderWebService.dll
+C:\Files\Capstone Project - Online Food Order\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\obj\Debug\net6.0\refint\OnlineFoodOrderWebService.dll
+C:\Files\Capstone Project - Online Food Order\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\obj\Debug\net6.0\OnlineFoodOrderWebService.pdb
+C:\Files\Capstone Project - Online Food Order\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\obj\Debug\net6.0\OnlineFoodOrderWebService.genruntimeconfig.cache
+C:\Files\Capstone Project - Online Food Order\Infosys.OnlineFoodOrder\OnlineFoodOrderWebService\obj\Debug\net6.0\ref\OnlineFoodOrderWebService.dll

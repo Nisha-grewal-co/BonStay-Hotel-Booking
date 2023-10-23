@@ -1,0 +1,90 @@
+D:\Capstone Project-OnlineFoodOrder(.net6)\Infosys.OnlineFoodOrder\OnlineFoodOrderDALCrossPlatform\bin\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.deps.json
+D:\Capstone Project-OnlineFoodOrder(.net6)\Infosys.OnlineFoodOrder\OnlineFoodOrderDALCrossPlatform\bin\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.runtimeconfig.json
+D:\Capstone Project-OnlineFoodOrder(.net6)\Infosys.OnlineFoodOrder\OnlineFoodOrderDALCrossPlatform\bin\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Infosys.OnlineFoodOrder\OnlineFoodOrderDALCrossPlatform\bin\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.pdb
+D:\Capstone Project-OnlineFoodOrder(.net6)\Infosys.OnlineFoodOrder\OnlineFoodOrderDALCrossPlatform\obj\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.csproj.AssemblyReference.cache
+D:\Capstone Project-OnlineFoodOrder(.net6)\Infosys.OnlineFoodOrder\OnlineFoodOrderDALCrossPlatform\obj\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capstone Project-OnlineFoodOrder(.net6)\Infosys.OnlineFoodOrder\OnlineFoodOrderDALCrossPlatform\obj\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.AssemblyInfoInputs.cache
+D:\Capstone Project-OnlineFoodOrder(.net6)\Infosys.OnlineFoodOrder\OnlineFoodOrderDALCrossPlatform\obj\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.AssemblyInfo.cs
+D:\Capstone Project-OnlineFoodOrder(.net6)\Infosys.OnlineFoodOrder\OnlineFoodOrderDALCrossPlatform\obj\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.csproj.CoreCompileInputs.cache
+D:\Capstone Project-OnlineFoodOrder(.net6)\Infosys.OnlineFoodOrder\OnlineFoodOrderDALCrossPlatform\obj\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Infosys.OnlineFoodOrder\OnlineFoodOrderDALCrossPlatform\obj\Debug\net6.0\refint\OnlineFoodOrderDALCrossPlatform.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Infosys.OnlineFoodOrder\OnlineFoodOrderDALCrossPlatform\obj\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.pdb
+D:\Capstone Project-OnlineFoodOrder(.net6)\Infosys.OnlineFoodOrder\OnlineFoodOrderDALCrossPlatform\obj\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.genruntimeconfig.cache
+D:\Capstone Project-OnlineFoodOrder(.net6)\Infosys.OnlineFoodOrder\OnlineFoodOrderDALCrossPlatform\obj\Debug\net6.0\ref\OnlineFoodOrderDALCrossPlatform.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Infosys.OnlineFoodOrder\OnlineFoodOrderDALCrossPlatform\bin\Debug\net6.0\appsettings.json
+D:\Capstone Project-OnlineFoodOrder(.net6)\Solution Templete\OnlineFoodOrderDALCrossPlatform\bin\Debug\net6.0\appsettings.json
+D:\Capstone Project-OnlineFoodOrder(.net6)\Solution Templete\OnlineFoodOrderDALCrossPlatform\bin\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.deps.json
+D:\Capstone Project-OnlineFoodOrder(.net6)\Solution Templete\OnlineFoodOrderDALCrossPlatform\bin\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.runtimeconfig.json
+D:\Capstone Project-OnlineFoodOrder(.net6)\Solution Templete\OnlineFoodOrderDALCrossPlatform\bin\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Solution Templete\OnlineFoodOrderDALCrossPlatform\bin\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.pdb
+D:\Capstone Project-OnlineFoodOrder(.net6)\Solution Templete\OnlineFoodOrderDALCrossPlatform\obj\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.csproj.AssemblyReference.cache
+D:\Capstone Project-OnlineFoodOrder(.net6)\Solution Templete\OnlineFoodOrderDALCrossPlatform\obj\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capstone Project-OnlineFoodOrder(.net6)\Solution Templete\OnlineFoodOrderDALCrossPlatform\obj\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.AssemblyInfoInputs.cache
+D:\Capstone Project-OnlineFoodOrder(.net6)\Solution Templete\OnlineFoodOrderDALCrossPlatform\obj\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.AssemblyInfo.cs
+D:\Capstone Project-OnlineFoodOrder(.net6)\Solution Templete\OnlineFoodOrderDALCrossPlatform\obj\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.csproj.CoreCompileInputs.cache
+D:\Capstone Project-OnlineFoodOrder(.net6)\Solution Templete\OnlineFoodOrderDALCrossPlatform\obj\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Solution Templete\OnlineFoodOrderDALCrossPlatform\obj\Debug\net6.0\refint\OnlineFoodOrderDALCrossPlatform.dll
+D:\Capstone Project-OnlineFoodOrder(.net6)\Solution Templete\OnlineFoodOrderDALCrossPlatform\obj\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.pdb
+D:\Capstone Project-OnlineFoodOrder(.net6)\Solution Templete\OnlineFoodOrderDALCrossPlatform\obj\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.genruntimeconfig.cache
+D:\Capstone Project-OnlineFoodOrder(.net6)\Solution Templete\OnlineFoodOrderDALCrossPlatform\obj\Debug\net6.0\ref\OnlineFoodOrderDALCrossPlatform.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Trainee Solution\OnlineFoodOrderDALCrossPlatform\bin\Debug\net6.0\appsettings.json
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Trainee Solution\OnlineFoodOrderDALCrossPlatform\bin\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.deps.json
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Trainee Solution\OnlineFoodOrderDALCrossPlatform\bin\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.runtimeconfig.json
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Trainee Solution\OnlineFoodOrderDALCrossPlatform\bin\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Trainee Solution\OnlineFoodOrderDALCrossPlatform\bin\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.pdb
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Trainee Solution\OnlineFoodOrderDALCrossPlatform\obj\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.csproj.AssemblyReference.cache
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Trainee Solution\OnlineFoodOrderDALCrossPlatform\obj\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Trainee Solution\OnlineFoodOrderDALCrossPlatform\obj\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.AssemblyInfoInputs.cache
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Trainee Solution\OnlineFoodOrderDALCrossPlatform\obj\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.AssemblyInfo.cs
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Trainee Solution\OnlineFoodOrderDALCrossPlatform\obj\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.csproj.CoreCompileInputs.cache
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Trainee Solution\OnlineFoodOrderDALCrossPlatform\obj\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Trainee Solution\OnlineFoodOrderDALCrossPlatform\obj\Debug\net6.0\refint\OnlineFoodOrderDALCrossPlatform.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Trainee Solution\OnlineFoodOrderDALCrossPlatform\obj\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.pdb
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Trainee Solution\OnlineFoodOrderDALCrossPlatform\obj\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.genruntimeconfig.cache
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Trainee Solution\OnlineFoodOrderDALCrossPlatform\obj\Debug\net6.0\ref\OnlineFoodOrderDALCrossPlatform.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Educator solution\Infosys.OnlineFoodOrder - Copy\OnlineFoodOrderDALCrossPlatform\bin\Debug\net6.0\appsettings.json
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Educator solution\Infosys.OnlineFoodOrder - Copy\OnlineFoodOrderDALCrossPlatform\bin\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.deps.json
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Educator solution\Infosys.OnlineFoodOrder - Copy\OnlineFoodOrderDALCrossPlatform\bin\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.runtimeconfig.json
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Educator solution\Infosys.OnlineFoodOrder - Copy\OnlineFoodOrderDALCrossPlatform\bin\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Educator solution\Infosys.OnlineFoodOrder - Copy\OnlineFoodOrderDALCrossPlatform\bin\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.pdb
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Educator solution\Infosys.OnlineFoodOrder - Copy\OnlineFoodOrderDALCrossPlatform\obj\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.csproj.AssemblyReference.cache
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Educator solution\Infosys.OnlineFoodOrder - Copy\OnlineFoodOrderDALCrossPlatform\obj\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Educator solution\Infosys.OnlineFoodOrder - Copy\OnlineFoodOrderDALCrossPlatform\obj\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.AssemblyInfoInputs.cache
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Educator solution\Infosys.OnlineFoodOrder - Copy\OnlineFoodOrderDALCrossPlatform\obj\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.AssemblyInfo.cs
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Educator solution\Infosys.OnlineFoodOrder - Copy\OnlineFoodOrderDALCrossPlatform\obj\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.csproj.CoreCompileInputs.cache
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Educator solution\Infosys.OnlineFoodOrder - Copy\OnlineFoodOrderDALCrossPlatform\obj\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Educator solution\Infosys.OnlineFoodOrder - Copy\OnlineFoodOrderDALCrossPlatform\obj\Debug\net6.0\refint\OnlineFoodOrderDALCrossPlatform.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Educator solution\Infosys.OnlineFoodOrder - Copy\OnlineFoodOrderDALCrossPlatform\obj\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.pdb
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Educator solution\Infosys.OnlineFoodOrder - Copy\OnlineFoodOrderDALCrossPlatform\obj\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.genruntimeconfig.cache
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Educator solution\Infosys.OnlineFoodOrder - Copy\OnlineFoodOrderDALCrossPlatform\obj\Debug\net6.0\ref\OnlineFoodOrderDALCrossPlatform.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Infosys.OnlineFoodOrder\OnlineFoodOrderDALCrossPlatform\bin\Debug\net6.0\appsettings.json
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Infosys.OnlineFoodOrder\OnlineFoodOrderDALCrossPlatform\bin\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.deps.json
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Infosys.OnlineFoodOrder\OnlineFoodOrderDALCrossPlatform\bin\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.runtimeconfig.json
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Infosys.OnlineFoodOrder\OnlineFoodOrderDALCrossPlatform\bin\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Infosys.OnlineFoodOrder\OnlineFoodOrderDALCrossPlatform\bin\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.pdb
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Infosys.OnlineFoodOrder\OnlineFoodOrderDALCrossPlatform\obj\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.csproj.AssemblyReference.cache
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Infosys.OnlineFoodOrder\OnlineFoodOrderDALCrossPlatform\obj\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Infosys.OnlineFoodOrder\OnlineFoodOrderDALCrossPlatform\obj\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.AssemblyInfoInputs.cache
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Infosys.OnlineFoodOrder\OnlineFoodOrderDALCrossPlatform\obj\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.AssemblyInfo.cs
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Infosys.OnlineFoodOrder\OnlineFoodOrderDALCrossPlatform\obj\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.csproj.CoreCompileInputs.cache
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Infosys.OnlineFoodOrder\OnlineFoodOrderDALCrossPlatform\obj\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Infosys.OnlineFoodOrder\OnlineFoodOrderDALCrossPlatform\obj\Debug\net6.0\refint\OnlineFoodOrderDALCrossPlatform.dll
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Infosys.OnlineFoodOrder\OnlineFoodOrderDALCrossPlatform\obj\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.pdb
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Infosys.OnlineFoodOrder\OnlineFoodOrderDALCrossPlatform\obj\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.genruntimeconfig.cache
+C:\Users\kumudayini_k01\Downloads\OnlineFoodOrder\OnlineFoodOrder\Infosys.OnlineFoodOrder\OnlineFoodOrderDALCrossPlatform\obj\Debug\net6.0\ref\OnlineFoodOrderDALCrossPlatform.dll
+C:\Files\Capstone Project - Online Food Order\Infosys.OnlineFoodOrder\OnlineFoodOrderDALCrossPlatform\bin\Debug\net6.0\appsettings.json
+C:\Files\Capstone Project - Online Food Order\Infosys.OnlineFoodOrder\OnlineFoodOrderDALCrossPlatform\bin\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.deps.json
+C:\Files\Capstone Project - Online Food Order\Infosys.OnlineFoodOrder\OnlineFoodOrderDALCrossPlatform\bin\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.runtimeconfig.json
+C:\Files\Capstone Project - Online Food Order\Infosys.OnlineFoodOrder\OnlineFoodOrderDALCrossPlatform\bin\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.dll
+C:\Files\Capstone Project - Online Food Order\Infosys.OnlineFoodOrder\OnlineFoodOrderDALCrossPlatform\bin\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.pdb
+C:\Files\Capstone Project - Online Food Order\Infosys.OnlineFoodOrder\OnlineFoodOrderDALCrossPlatform\obj\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.csproj.AssemblyReference.cache
+C:\Files\Capstone Project - Online Food Order\Infosys.OnlineFoodOrder\OnlineFoodOrderDALCrossPlatform\obj\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Files\Capstone Project - Online Food Order\Infosys.OnlineFoodOrder\OnlineFoodOrderDALCrossPlatform\obj\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.AssemblyInfoInputs.cache
+C:\Files\Capstone Project - Online Food Order\Infosys.OnlineFoodOrder\OnlineFoodOrderDALCrossPlatform\obj\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.AssemblyInfo.cs
+C:\Files\Capstone Project - Online Food Order\Infosys.OnlineFoodOrder\OnlineFoodOrderDALCrossPlatform\obj\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.csproj.CoreCompileInputs.cache
+C:\Files\Capstone Project - Online Food Order\Infosys.OnlineFoodOrder\OnlineFoodOrderDALCrossPlatform\obj\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.dll
+C:\Files\Capstone Project - Online Food Order\Infosys.OnlineFoodOrder\OnlineFoodOrderDALCrossPlatform\obj\Debug\net6.0\refint\OnlineFoodOrderDALCrossPlatform.dll
+C:\Files\Capstone Project - Online Food Order\Infosys.OnlineFoodOrder\OnlineFoodOrderDALCrossPlatform\obj\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.pdb
+C:\Files\Capstone Project - Online Food Order\Infosys.OnlineFoodOrder\OnlineFoodOrderDALCrossPlatform\obj\Debug\net6.0\OnlineFoodOrderDALCrossPlatform.genruntimeconfig.cache
+C:\Files\Capstone Project - Online Food Order\Infosys.OnlineFoodOrder\OnlineFoodOrderDALCrossPlatform\obj\Debug\net6.0\ref\OnlineFoodOrderDALCrossPlatform.dll

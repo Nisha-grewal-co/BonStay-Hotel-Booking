@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Bewo+dvRbd4iR6DjVbsekwtvm6qkRtVdiOQ7Nmy3SHw=",
+  "Source": "OnlineFoodOrderWebService",
+  "BasePath": "_content/OnlineFoodOrderWebService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
